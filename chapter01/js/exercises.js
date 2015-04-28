@@ -6,7 +6,7 @@
 // Make the function return a value that is a number.
 Exercises.numbers1 = function() {
 
-  return /* your answer here */ ;
+  return 30 ;
 
 };
 
@@ -14,7 +14,7 @@ Exercises.numbers1 = function() {
 // Make the function return a value that is a negative number.
 Exercises.numbers2 = function() {
 
-  return /* your answer here */ ;
+  return -10 /* your answer here */ ;
 
 };
 
