@@ -56,7 +56,7 @@ Exercises.arithmetic2 = function() {
 // Add parentheses to the expression so that it evaluates to -4.
 Exercises.arithmetic3 = function() {
 
-  return -1 * 6 -(- 4 / 1 * 2);
+  return -1 *(6 *1 -4/(1*2));
   
 };
 
@@ -64,7 +64,7 @@ Exercises.arithmetic3 = function() {
 // Fix the values so the expression evaluates to 3.
 Exercises.arithmetic4 = function() {
 
-  return 17 % 11 ;
+  return 3 %30 ;
   
 };
 
